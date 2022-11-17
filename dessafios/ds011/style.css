@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+.fundo {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(imagens/espaco.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.astro {
+    
+    width: 200px;
+    height: 200px;
+    
+}
+.astro img{
+    width: 100%;
+     
+
+}
